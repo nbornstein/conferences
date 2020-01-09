@@ -1,5 +1,5 @@
 base:
   '*':
     - chrony.ntp
-  'sle15*':
+  'sles15sp1*':
     - webserver.nginx
